@@ -41,5 +41,20 @@ What would the users usually do in order to complete that activity?
 
 # Interview Guide
 Please find the script [here](https://docs.google.com/document/d/1agLhft50-ZDwBrpGEPZBggkECe4eBvL6MjtQZbcMTzs/edit?usp=sharing).
+
 Please find the recordings [here](https://drive.google.com/file/d/1_FKy_3NOacxbje0MzeJ1b27ueZG-9t5a/view?usp=sharing).
+
 Please find the transcription [here](https://docs.google.com/document/d/1eR3eoUUuQX3MoG1kq8XK1JBkvSUBC8oFqHpsWHqRleU/edit?usp=sharing).
+
+# Insights from the Interview
+
+### What motivates you to use a location tracking app? [2:57]
+> There have been a few different reasons why I have used location tracking apps in the past when one reason is for navigation purposes. When I am in an unfamiliar area or trying to find the best route to a new location, using a location tracking app, like Google Maps, or Waze can be very helpful in providing directions and helping me avoid traffic or road closures are the reasons I have. Use location checking apps for safety and security. For example, when meeting up with friends or family members in a crowded area, using an app like Find My Friends can help us quickly locate each other and ensure that everyone is safe. Finally, I have also use location tracking apps for work related purposes. Such as tracking the location of deliveries or coordinating with team members who are in different locations.
+
+### Can you describe any features or functionalities that you wish your current location app has? [11:15]
+> Definitely Battery Saver on all the map apps are battery intensive, which can be a problem for some users. A location checking app that manages battery life better or has power saving modes will be a valuable feature.
+
+### How did you find the process of tracking your loved one's location using the app. [16:19]
+The process is pretty easy and so far I think that if the app is easy to use and provides accurate location data locate check. Checking a loved one's location using the app should be a straightforward and effective process.
+
+# Reflection
