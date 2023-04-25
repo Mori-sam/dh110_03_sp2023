@@ -55,6 +55,6 @@ Please find the transcription [here](https://docs.google.com/document/d/1eR3eoUU
 > Definitely Battery Saver on all the map apps are battery intensive, which can be a problem for some users. A location checking app that manages battery life better or has power saving modes will be a valuable feature.
 
 ### How did you find the process of tracking your loved one's location using the app. [16:19]
-The process is pretty easy and so far I think that if the app is easy to use and provides accurate location data locate check. Checking a loved one's location using the app should be a straightforward and effective process.
+> The process is pretty easy and so far I think that if the app is easy to use and provides accurate location data locate check. Checking a loved one's location using the app should be a straightforward and effective process.
 
 # Reflection
