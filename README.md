@@ -39,3 +39,7 @@ What would the users usually do in order to complete that activity?
 3. Interaction
 > I will conduct a participatory interaction with a friend who fits my target demographic details. I will ask them to complete user activities for me and share their experience.
 
+# Interview Guide
+Please find the script [here](https://docs.google.com/document/d/1agLhft50-ZDwBrpGEPZBggkECe4eBvL6MjtQZbcMTzs/edit?usp=sharing).
+Please find the recordings [here](https://drive.google.com/file/d/1_FKy_3NOacxbje0MzeJ1b27ueZG-9t5a/view?usp=sharing).
+Please find the transcription [here](https://docs.google.com/document/d/1eR3eoUUuQX3MoG1kq8XK1JBkvSUBC8oFqHpsWHqRleU/edit?usp=sharing).
