@@ -16,3 +16,26 @@ What is(are) the traditional/current solution(s) to satisfy the needs?
 What is(are) the limitation(s) that possibly would be improved?
 > User Preferences: Your target users are likely to value privacy, accuracy, and ease of use. They may also prefer an app with a simple and intuitive user interface that is not overwhelming. Additionally, they may prefer an app that allows them to customize the level of sharing and control over their location information.
 > Expertise: Your target users are likely to be comfortable using mobile apps and technology in general. They may have a moderate to high level of tech-savviness and an understanding of how to use location tracking apps. However, your app should also be designed to be easy enough to use for users with limited tech experience.
+
+# Step02: Target users
+What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme)
+> Demographics: The primary target users for your app are likely to be families or groups of friends who want to stay connected and keep track of each other's whereabouts. Your target audience may include parents who want to monitor their children, or friends who are coordinating meetups or road trips. The app is suitable for children above 10 years old and elders above 60 years old, making it applicable to all age groups.
+> User Preferences: Your target users are likely to value privacy, accuracy, and ease of use. They may also prefer an app with a simple and intuitive user interface that is not overwhelming. Additionally, they may prefer an app that allows them to customize the level of sharing and control over their location information.
+> Expertise: Your target users are likely to be comfortable using mobile apps and technology in general. They may have a moderate to high level of tech-savviness and an understanding of how to use location tracking apps. However, your app should also be designed to be easy enough to use for users with limited tech experience.
+
+In which context (where, why, under which conditions) would the users do that activity?
+>Safety: People use location tracking apps primarily for safety reasons. Parents track their children when they're out with friends or going to and from school. Friends use the app to coordinate meetups or ensure safe arrival at destinations.
+>Coordination: The app can be used for coordination, such as planning road trips, tracking progress, and ensuring punctuality for events or appointments.
+>Emergencies: The app can be used to locate and communicate with loved ones during natural disasters or accidents. For example, in an earthquake, family members can use the app to quickly find each other and ensure everyone is safe.
+
+What would the users usually do in order to complete that activity?
+> In order to ensure the accuracy of the location information, users may need to enable the app to access their device's GPS, as well as ensure that their loved ones have the app installed and have given permission to share their location. Users may also need to keep their device charged and connected to the internet to ensure real-time updates.
+
+# Step03: Pick an qualitative research method
+1. Observation
+> I will conduct a overt observation. As my target users won't have any physical needs from my app, I will only observe how they check on their loved ones regularly and how they want to improve their experience.
+2. Background questions
+> It's important to consider their demographic information, such as age, income, and education level. Additionally, their family conditions, such as marital status and number of children, can also play a role in their purchasing decisions. By understanding these factors, I can tailor my app to better meet the needs of my target users. 
+3. Interaction
+> I will conduct a participatory interaction with a friend who fits my target demographic details. I will ask them to complete user activities for me and share their experience.
+
